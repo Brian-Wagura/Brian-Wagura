@@ -1,5 +1,5 @@
 
-<img width="1000px" height="500px" src="https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif" />
+<img width="1000px" height="500px" src="https://media.tenor.com/IGyOkb1TufkAAAAC/who-asked.gif" />
 
 <h1 align="center">Hi 👋, I'm Brian Wagura</h1>
 <h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
