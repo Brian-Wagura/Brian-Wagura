@@ -1,3 +1,4 @@
+
 <img width="1000px" height="500px" src="https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif" />
 
 <h1 align="center">Hi 👋, I'm Brian Wagura</h1>
