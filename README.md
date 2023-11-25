@@ -1,5 +1,5 @@
 
-<img align="center" width="800px" height="400px" src="https://media.tenor.com/jkaTE60JNKsAAAAd/spiderman-angry.gif" />
+<img align="center" width="800px" height="400px" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" />
 
 <h1 align="center">Hi 👋, I'm Brian Wagura</h1>
 <h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
