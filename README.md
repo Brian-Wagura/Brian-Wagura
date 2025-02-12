@@ -1,5 +1,5 @@
 
-<img align="center" width="1000px" height="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjN2NGJmbzBiZTAyeDlxZmxmbXJ6Z2owZXpveGs0bzRzd2EwYWR3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
+<img align="center" width="1000px" height="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYxeGNrYXljNWl5aXZlcWQ2b3FhdDJ2N3hoN3BzcGp3dWg5OW5vNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif)" />
 
 <h1 align="center">Hi 👋, I'm Brian Wagura</h1>
 <h3 align="center">A results-driven software developer</h3>
