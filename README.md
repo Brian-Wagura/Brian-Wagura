@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Brian Wagura</h1>
 <h3 align="center">A results-driven software developer</h3>
 
-<p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYxeGNrYXljNWl5aXZlcWQ2b3FhdDJ2N3hoN3BzcGp3dWg5OW5vNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif)" alt="brian-wagura" /> </p>
+<p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYxeGNrYXljNWl5aXZlcWQ2b3FhdDJ2N3hoN3BzcGp3dWg5OW5vNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="brian-wagura" /> </p>
 
 <!--
      My mission, because I'm a superhero!
