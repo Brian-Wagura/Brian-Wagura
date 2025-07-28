@@ -16,10 +16,10 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,java,spring,js,nodejs,react,express,jest,jenkins,cpp,c,html,css,golang)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,mongodb,mysql,java,spring,nodejs,react,jest,jenkins,c,golang)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
 ### Employer?
