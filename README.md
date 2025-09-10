@@ -21,9 +21,4 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1eiOA8LFllCnsY38GnyIK2U3oca7pcMlJ/view?usp=drive_link)" download>Download my resume</a>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
