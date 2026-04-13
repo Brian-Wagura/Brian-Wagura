@@ -19,6 +19,6 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 [![My Skills](https://skillicons.dev/icons?i=github,git,mongodb,mysql,java,spring,nodejs,react,jest,jenkins,c,golang,aws)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=kubernetes,)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=kubernetes,gcp)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
